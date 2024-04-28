@@ -36,10 +36,10 @@ function Posts(){
                 audience={images.earth}
                 status={images.verified}
                 post={images.ronaldo2}
-                StReact={images.haha}
-                NdReact={images.wow}
-                RdReact={images.like}
-                reach='7.4M'
+                StReact={images.like}
+                NdReact={images.love}
+                RdReact={images.care}
+                reach='7.3M'
                 comments='12.1K'
                 shares='3K'
                 c_s='d-block'
