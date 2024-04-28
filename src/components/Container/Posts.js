@@ -35,7 +35,7 @@ function Posts(){
                 date='2d'
                 audience={images.earth}
                 status={images.verified}
-                post={images.ronaldo3}
+                post={images.ronaldo2}
                 StReact={images.haha}
                 NdReact={images.wow}
                 RdReact={images.like}
